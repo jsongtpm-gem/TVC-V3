@@ -1,1 +1,1 @@
-export default function Nav() { return null; }
+export default function Nav() { return null }

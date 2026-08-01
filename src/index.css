@@ -1,2 +1,16 @@
-/* index.css placeholder */
-body { margin: 0; }
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-playfair: 'Playfair Display', Georgia, serif;
+  --font-source-serif: 'Source Serif 4', Georgia, serif;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: var(--font-source-serif);
+  background-color: #F5EFE0;
+  color: #2C1810;
+}

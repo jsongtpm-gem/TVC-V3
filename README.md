@@ -1,3 +1,3 @@
 # TVC-v2
 
-This is a copy of TVC-v2 into TVC-V3 repository.
+This repository contains the TVC-v2 code copied from the original project.

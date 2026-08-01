@@ -1,1 +1,1 @@
-export default function Footer() { return null; }
+export default function Footer() { return null }

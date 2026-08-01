@@ -1,1 +1,1 @@
--- supabase schema placeholder --
+-- supabase schema baseline --
